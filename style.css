@@ -1,0 +1,104 @@
+.btn {
+    border: 0 none;
+    text-align: center;
+    padding: 10px;
+    margin-left: -5%;
+    width: 290px;
+    font-family: 'Georgia', Times, Times New Roman, serif;
+    font-size: 22px;
+    font-weight: 900;
+    letter-spacing: 3px;
+    margin-top: -8%;
+    height: 55px;
+    color: white;
+    background-color:teal;
+    }
+
+.navbar-header{
+    height: 8px;
+}
+
+.nav-link{
+    font-family: proxima-nova;
+    font-style: normal;
+    font-weight: 100;
+    letter-spacing: 1px;
+    color: rgb(77, 80, 80);
+    margin-inline-end: 15%;
+} 
+
+ul.nav a:hover {color: rgb(211, 214, 44);}
+
+header {
+    margin-left: 0%;
+    margin-top:0%;
+    font-family: INHERIT;
+    font-size: 1rem;
+    line-height: 1cm;
+    height: 1 cm;
+}
+
+.jumbotron{
+    background-color: white;
+    margin-top:8%;
+    height: 80px;
+    color: teal;
+    border-top-color: white;
+    border-left-color: white;
+    border-right-color: white;
+    border-bottom-color: rgb(150, 145, 145);
+    border-style: solid;
+}
+
+.container{
+    background-color:white;
+}
+
+body{
+    background-image: url('dust_scratches.png');
+}
+
+.thumbnail {
+    position: sticky;
+}
+
+.caption {
+    position: absolute;
+    top: 83%;
+    text-align: center;
+    width: 100%;
+    background-color: teal;
+    color: white;
+    padding-top: 10px;
+
+}
+
+.form-area
+{
+    background-color: #FAFAFA;
+    padding: 10px 40px 60px;
+    height: 50vh;
+	margin: 10px 0px 60px;
+    border: 1px solid GREY;
+    }
+
+footer{
+    text-align: center;
+    position: fixed;
+    left:-10%;
+    right:-10%;
+    bottom: 0%;
+    text-align: center;
+    width: 120%;;
+    height: 7.5vh;
+    margin-top: 50%;
+    font-size: 12px;
+    padding-bottom: 20px;
+    border-top-style: solid;
+    border-top-color: #4aaaa5;
+    border-top-width: 0.3cm;
+    background-color: #666;
+    color: #ffffff;
+    clear: both;
+}
+
